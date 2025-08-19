@@ -70,3 +70,6 @@ Live Event Discussions
 Conclusion
 
 The Real-Time Chat Application demonstrates the power of WebSockets in creating responsive, real-time web applications. By integrating Node.js for the backend and React.js for the frontend, this project showcases modern full-stack development practices. It not only provides a functional chat system but also serves as a learning experience in building scalable and interactive applications. With further improvements like authentication, private messaging, and database integration, this project can evolve into a fully-fledged chat platform.
+#output
+<img width="1826" height="834" alt="image" src="https://github.com/user-attachments/assets/54723486-655f-4d87-9365-28aa2d3438bd" />
+
