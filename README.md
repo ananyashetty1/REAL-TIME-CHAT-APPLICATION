@@ -19,3 +19,5 @@ From a technical perspective, the application relies on WebSocket technology for
 The Real-Time Chat Application is not only an exercise in front-end development but also an opportunity to understand client-server communication, real-time systems, and asynchronous programming. It demonstrates proficiency in building dynamic, interactive applications that respond instantly to user input and network events.
 
 Overall, this project represents a valuable learning experience in modern web development. It combines front-end design, back-end integration, and real-time communication to deliver a practical and highly relevant application. The skills acquired through this project—such as working with WebSockets, handling state in React/Vue, and designing responsive UIs—are directly applicable to professional software engineering and internship opportunities.
+#output
+<img width="1750" height="802" alt="Image" src="https://github.com/user-attachments/assets/44e4a468-4837-4ffb-b2a6-7cdfe67d4f6d" />
